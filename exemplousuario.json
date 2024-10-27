@@ -1,0 +1,98 @@
+{
+    "nome": "João da Silva",
+    "telefone": "1234567890",
+    "local": "Escola Exemplo",
+    "endereco": "Rua Exemplo, 123, Bairro Central",
+    "batidas": [
+        {
+            "horario": "07:00",
+            "registrado_em": null,
+            "status": "não batido",
+            "localizacao": null
+        },
+        {
+            "horario": "08:00",
+            "registrado_em": null,
+            "status": "não batido",
+            "localizacao": null
+        },
+        {
+            "horario": "09:00",
+            "registrado_em": null,
+            "status": "não batido",
+            "localizacao": null
+        },
+        {
+            "horario": "10:00",
+            "registrado_em": null,
+            "status": "não batido",
+            "localizacao": null
+        },
+        {
+            "horario": "11:00",
+            "registrado_em": null,
+            "status": "não batido",
+            "localizacao": null
+        },
+        {
+            "horario": "12:00",
+            "registrado_em": null,
+            "status": "não batido",
+            "localizacao": null
+        },
+        {
+            "horario": "13:00",
+            "registrado_em": null,
+            "status": "não batido",
+            "localizacao": null
+        },
+        {
+            "horario": "14:00",
+            "registrado_em": null,
+            "status": "não batido",
+            "localizacao": null
+        },
+        {
+            "horario": "15:00",
+            "registrado_em": null,
+            "status": "não batido",
+            "localizacao": null
+        },
+        {
+            "horario": "16:00",
+            "registrado_em": null,
+            "status": "não batido",
+            "localizacao": null
+        },
+        {
+            "horario": "17:00",
+            "registrado_em": null,
+            "status": "não batido",
+            "localizacao": null
+        },
+        {
+            "horario": "18:00",
+            "registrado_em": null,
+            "status": "não batido",
+            "localizacao": null
+        },
+        {
+            "horario": "19:00",
+            "registrado_em": null,
+            "status": "não batido",
+            "localizacao": null
+        },
+        {
+            "horario": "20:00",
+            "registrado_em": null,
+            "status": "não batido",
+            "localizacao": null
+        },
+        {
+            "horario": "21:00",
+            "registrado_em": null,
+            "status": "não batido",
+            "localizacao": null
+        }
+    ]
+}
